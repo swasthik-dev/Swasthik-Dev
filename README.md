@@ -1,4 +1,4 @@
-  <h1 align="center">Hi 👋, I'm Swasthik S Devadiga</h1>
+<h1 align="center">Hi 👋, I'm Swasthik S Devadiga</h1>
 
 <hr>
 <p> </p>
@@ -22,7 +22,7 @@
 </a>
 </p>
 <p> </p>
-<h2 id="️-my-skills">🛠️ My Skills</h2>
+<h2 id="-my-skills">🛠 My Skills</h2>
 <hr>
 <h3 id="programming-languages">Programming languages:</h3>
 <p> 
@@ -86,6 +86,8 @@
 <h2 id="-my-github-stats-and-activity">📈 My GitHub Stats and Activity</h2>
 <h3 id="-profile-stats">💻 Profile Stats</h3>
 <p><img alt="Swasthik's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=swasthik-dev&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866" height="192px"></p>
-<img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkeli&amp;langs_count=8&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866" height="192px"><p></p>
+<p><img alt="Swasthik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swasthik-dev&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"></p>
+
+<p></p>
 <h3 id="-streak-stats">🔥 Streak Stats</h3>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=berkeli&amp;theme=tokyonight" alt="Berkeli's GitHub stats"></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=swasthik-dev&amp;theme=tokyonight" alt="Swasthik's GitHub stats"></p>
